@@ -6,7 +6,8 @@ MIN3P is a general purpose flow and reactive transport code for variably saturat
 
 Subsurface fluid migration and geochemical conditions may be impacted by a variety of interacting physical and chemical processes, including density-dependent, variably-saturated groundwater flow, heat transport, mass transport, mixing of waters of different geochemical compositions, water-rock interaction, and mechanical loading. Understanding the interactions among these processes is important when investigating contaminant migration in groundwater, natural attenuation processes, or site remediation alternatives, and when assessing the long-term hydrogeological and geochemical stability of rock formations. MIN3P is a three-dimensional (3D) numerical model that has been developed to simulate the processes that are most relevant to these types of subsurface flow and reactive transport problems, and is primarily used to aid in the quantitative assessment of laboratory experiments and field studies. For examples and verification studies, refer to the Verification Examples.
 
-**Multi-domain formulation of MIN3P**: 
+**Multi-domain formulation of MIN3P**:
+
 The MIN3P code was enhanced with a multi-domain model that incorporates non-equilibrium gas and solute transport and exchange processes across three interconnected subdomains.
 
 
